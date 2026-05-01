@@ -38,8 +38,14 @@ I'm currently exploring low-resource Nepali NLP (ASR + handwritten character rec
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurab-Giri/Gaurab-Giri/output/github-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gaurab-Giri/Gaurab-Giri/output/github-snake.svg" />
+</picture>
+
+---
 ## Featured Projects
 
 ### 🧠 [Feedora](https://github.com/Gaurab-Giri/Feedora)
