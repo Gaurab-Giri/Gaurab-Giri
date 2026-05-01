@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a> ·
-  <a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
+  <a href="https://www.linkedin.com/in/gaurab-giri-6890591b7/">LinkedIn</a> ·
+  <a href="mailto:gr8gaurab@gmail.com">Email</a> ·
+  <a href="gaurab-giri.github.io/Resume/">Portfolio</a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a sophomore CS + Business Analytics student who builds things that actually work. I've shipped full-stack apps with real-time features, AI integrations, and production deployments — not just class projects. Outside of code, I co-founded **The Crits**, a national digital literacy initiative in Nepal, and serve as a Lab Instructor and Peer Tutor on campus.
+I'm a rising Junior CS + Business Analytics student who builds things that actually work. I've shipped full-stack apps with real-time features, AI integrations, and production deployments — not just class projects. Outside of code, I co-founded **The Crits**, a national digital literacy initiative in Nepal, and serve as a Lab Instructor and Peer Tutor on campus.
 
 I'm currently exploring low-resource Nepali NLP (ASR + handwritten character recognition) as part of undergraduate research.
 
@@ -63,4 +63,4 @@ AI smart campus assistant for Caldwell University. Chatbot + campus data integra
 ## Let's Talk
 
 If you're building something and need a developer who can move fast and ship — reach out.  
-📧 YOUR_EMAIL · 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+📧 gr8gaurab@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/gaurab-giri-6890591b7/)
