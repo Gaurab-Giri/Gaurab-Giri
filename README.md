@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a rising Junior CS + Business Analytics student who builds things that actually work. I've shipped full-stack apps with real-time features, AI integrations, and production deployments — not just class projects. Outside of code, I co-founded **The Crits**, a national digital literacy initiative in Nepal, and serve as a Lab Instructor and Peer Tutor on campus.
+I'm a sophomore CS + Business Analytics student who builds things that actually work. I've shipped full-stack apps with real-time features, AI integrations, and production deployments — not just class projects. Outside of code, I co-founded **The Crits**, a national digital literacy initiative in Nepal, and serve as a Lab Instructor and Peer Tutor on campus.
 
 I'm currently exploring low-resource Nepali NLP (ASR + handwritten character recognition) as part of undergraduate research.
 
