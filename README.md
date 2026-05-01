@@ -1,5 +1,8 @@
 <h1 align="center">Hey, I'm Gaurab 👋</h1>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurab-Giri&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurab-Giri&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 <p align="center">
   Full-Stack Developer · AI Integrations · CS + Business Analytics @ Caldwell University<br/>
   Building real products that ship. Open to <strong>remote roles</strong> & <strong>freelance work</strong>.
