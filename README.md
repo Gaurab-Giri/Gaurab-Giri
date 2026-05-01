@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Gaurab-Giri&color=blueviolet&style=flat-square)
 <h1 align="center">Hey, I'm Gaurab 👋</h1>
 
 <p align="center">
@@ -65,6 +66,14 @@ AI smart campus assistant for Caldwell University. Chatbot + campus data integra
 - 🏗️ Building CampusIQ
 - 📚 Sophomore @ Caldwell University (CS + Business Analytics, Honors)
 - 👐 Open to remote SWE internships, freelance full-stack work, and AI integration projects
+
+---
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurab-Giri/Gaurab-Giri/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Gaurab-Giri/Gaurab-Giri/output/github-snake.svg" />
+</picture>
 
 ---
 
