@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurab-giri-6890591b7/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/gaurabgiri/">LinkedIn</a> ·
   <a href="mailto:gr8gaurab@gmail.com">Email</a> ·
   <a href="https://gaurab-giri.github.io/">Portfolio</a>
 </p>
