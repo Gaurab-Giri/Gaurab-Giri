@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurab-giri-6890591b7/">LinkedIn</a> ·
   <a href="mailto:gr8gaurab@gmail.com">Email</a> ·
-  <a href="gaurab-giri.github.io/Resume/">Portfolio</a>
+  <a href="https://gaurab-giri.github.io/Resume/">Portfolio</a>
 </p>
 
 ---
@@ -30,6 +30,8 @@ I'm currently exploring low-resource Nepali NLP (ASR + handwritten character rec
 **AI/ML:** Anthropic Claude API · Groq · Gemini API · HuggingFace  
 **Tools:** Git · Vercel · Docker · Power BI · Figma
 
+<br/>
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -39,24 +41,27 @@ I'm currently exploring low-resource Nepali NLP (ASR + handwritten character rec
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+
 ## 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurab-Giri&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurab-Giri&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaurab-Giri&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaurab-Giri&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gaurab-Giri&theme=tokyonight&hide_border=true" />
 </p>
 
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurab-Giri/Gaurab-Giri/output/github-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gaurab-Giri/Gaurab-Giri/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurab-Giri/Gaurab-Giri/output/github-snake-dark.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gaurab-Giri/Gaurab-Giri/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
+
 ## Featured Projects
 
 ### 🧠 [Feedora](https://github.com/Gaurab-Giri/Feedora)
@@ -83,14 +88,6 @@ AI smart campus assistant for Caldwell University. Chatbot + campus data integra
 - 🏗️ Building CampusIQ
 - 📚 Sophomore @ Caldwell University (CS + Business Analytics, Honors)
 - 👐 Open to remote SWE internships, freelance full-stack work, and AI integration projects
-
----
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurab-Giri/Gaurab-Giri/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Gaurab-Giri/Gaurab-Giri/output/github-snake.svg" />
-</picture>
 
 ---
 
